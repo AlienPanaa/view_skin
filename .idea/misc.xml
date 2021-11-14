@@ -4,10 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/GitLab/Skin/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/shank/StudioProjects/bwing_flutter/android/.gradle/caches/transforms-3/43711b72eaf2f529e5b9b1576380fb27/transformed/appcompat-1.3.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.18819655521783182" />
+        <entry key="..\:/Users/shank/StudioProjects/view_skin/app/my_skin/src/main/res/layout/activity_main.xml" value="0.12129629629629629" />
+        <entry key="..\:/Users/shank/StudioProjects/view_skin/app/src/main/res/layout/activity_change_skin.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/shank/StudioProjects/view_skin/app/src/main/res/layout/activity_lobby.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/shank/StudioProjects/view_skin/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/shank/StudioProjects/view_skin/skin/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/shank/StudioProjects/view_skin/test_skin/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/shank/StudioProjects/view_skin/test_skin/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.403125" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

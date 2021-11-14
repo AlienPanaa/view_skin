@@ -8,4 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Skin"
 include ':app'
-include ':skin'
+include ':skin_module'
+include ':test_skin'

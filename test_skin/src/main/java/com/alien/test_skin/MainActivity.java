@@ -1,10 +1,8 @@
-package com.alien.pannaa.skin;
-
-import android.content.Intent;
-import android.os.Bundle;
-import android.view.View;
+package com.alien.test_skin;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -14,8 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void gotoChange(View view) {
-        Intent intent = new Intent(this, ChangeSkinActivity.class);
-        startActivity(intent);
+    private void gotoChange() {
+
     }
 }
